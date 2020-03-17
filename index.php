@@ -54,4 +54,5 @@ else
     echo "Désolé, je n'ai pas de message à afficher pour cette note";
 }
 
+echo "<br/>fin"
 ?>
